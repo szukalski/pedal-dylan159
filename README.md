@@ -2,7 +2,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-These are PCB layouts which I have made for designs by dylan159 and shared on his [blog](https://bentfishbowl.wixsite.com/electronics). Some of them have faceplates, I would recommend to fab them in 0.8mm.
+These are PCB layouts which I have made for designs by dylan159 and shared on his [blog](https://bentfishbowl.wixsite.com/electronics). Some of them have faceplates, I would recommend to fab them in 0.8mm. These were designed at various stages of my learning curve in DipTrace, so design principles may not be consistent with older layouts.
 
 You can also find him (and myself and other interesting people) at the [Audio Electronics DIY Discord](https://discord.gg/vcFyJU8j).
 
